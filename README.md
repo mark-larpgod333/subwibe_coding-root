@@ -1,4 +1,4 @@
-# subwibe_coding-root
+# Subwibe Coding
 Пиксельный 2D-раннер в стиле **Subway Surfers**, работающий прямо внутри встроенного **WebUI** менеджеров рут-прав (**APatch** / **KernelSU**).
 
 ## Особенности
